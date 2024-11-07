@@ -1,0 +1,5 @@
+# Ignore Env File
+.Env
+
+#Ignore Pycache files
+__pychache__/
